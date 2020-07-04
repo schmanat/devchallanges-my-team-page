@@ -1,0 +1,19 @@
+{
+    "name": "my-team-page",
+    "version": "1.0.0",
+    "description": "my-team-page from devchallenges.io",
+    "main": "index.js",
+    "dependencies": {
+        "@fullhuman/postcss-purgecss": "^2.3.0",
+        "@openfonts/pt-serif_latin": "^1.44.1",
+        "autoprefixer": "^9.8.4",
+        "postcss-cli": "^7.1.1",
+        "tailwindcss": "^1.4.6"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "build": "postcss src/css/tailwind.css -o public/assets/css/tailwind.css"
+    },
+    "author": "Manuel Schneider",
+    "license": ""
+}

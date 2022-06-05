@@ -2,12 +2,16 @@
 
 This is the result of the [challenge - My Team Page](https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U).
 
+## Screenshot
+
+![My team page](./screenshot.png)
+
 ## Stack
 
--   VS Code
--   Tailwind CSS
--   PurgeCSS
--   PostCSS
+- VS Code
+- Tailwind CSS
+- PurgeCSS
+- PostCSS
 
 ## Demo
 
